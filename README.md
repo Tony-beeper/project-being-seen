@@ -2,6 +2,19 @@
 
 Due to the rising number of homeless youth, youth homelessness is becoming more and more prevalent. Our vision is to build a holistic online platform that can bridge merchants, donors, and homeless youth together. We aim to act as a catalyst in which to reduce the barriers for homeless youth to seek help and for donors who are willing to donate. The website accepts money from donors and goes directly to homeless youth as a credit point that can be exchanged for educational support or living needs (grocery, clothing, etc.). The homeless individuals will be able to upload their information and stories for donors to see. If the donor obliges, they will be able to select individuals they want to aid. Alternatively, they can also choose to donate to our organization directly.
 
+
+# Contributors
+Developer Team:  
+- Joshua Daniel  
+- Tony Tan  
+- Luowei Tan  
+- Charles Xu  
+- Abhishek Chatterjee
+
+
+# Stack
+MERN
+
 # Backend Setup
 
 ### Prerequisites
@@ -67,10 +80,25 @@ The following are needed only if you want to use your own Azure storage account 
    # Optimized production build
    ```
 
-### Testing
-
-Running `npm test` inside the `/frontend` folder will run any tests that are present.
-
 # Contribution
 
 We will be using Git flow with the `main` (product) branch, `develop` branch and as many feature branches as needed named after the feature that will be worked on in that branch. Each feature branch needs to be reviewed (using pull-request) by another team member before merging into the `develop` branch. Approximately at the end of each sprint, we will submit a pull-request to merge the `develop` branch into the `main` branch (this will also need to be reviewed by team members).
+
+
+# Pictures
+
+### Donor POV:
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/main_page.jpg?raw=true)
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/donation_card.png?raw=true)
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/donor_dashboard.png?raw=true)
+
+### Merchant POV:
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Merchant/products-and-orders.png?raw=true)
+
+### Youth POV:
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Youth/donation.png?raw=true)
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Youth/products.jpg?raw=true)
+
+
+
+
