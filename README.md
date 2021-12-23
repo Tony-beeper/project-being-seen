@@ -91,15 +91,14 @@ We will be using Git flow with the `main` (product) branch, `develop` branch and
 # Pictures
 
 ### Donor POV:
-![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/main_page.jpg?raw=true)
-![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/donation_card.png?raw=true)
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/main_page.jpg?raw=true)  
+![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/donation_card.png?raw=true)  
 ![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Donor/donor_dashboard.png?raw=true)
-
+  
 ### Merchant POV:
 ![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Merchant/products-and-orders.png?raw=true)
-
+  
 ### Youth POV:
-![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Youth/donation.png?raw=true)
 ![alt text](https://github.com/Tony-beeper/project-being-seen/blob/main/Images/Youth/products.jpg?raw=true)
 
 
