@@ -11,6 +11,9 @@ Developer Team:
 - Charles Xu  
 - Abhishek Chatterjee
 
+Advisor:
+- Being Seen non-profit team
+
 
 # Stack
 MERN
