@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoLink {
+  height: 50px;
+  overflow: hidden;
+
+  img {
+    width: auto;
+    height: 70px;
+    transform: translateY(-7%);
+  }
+}
