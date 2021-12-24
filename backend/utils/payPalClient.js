@@ -14,9 +14,9 @@ const client = () => new payPalSdk.core.PayPalHttpClient(environment());
  */
 const environment = () => {
   const clientId =
-    "Paypal developer ClientID";
+    "AV1x6EmVIuywrckX_H7LT9SRMBWhqLh5oW-G-56kkLMiOAFqTcFeVnuppNTZd1oJVqZSNQ3ufYpyObz9";
   const clientSecret =
-    "Paypal developer ClientSecret";
+    "ECGWxY93ZJmpDsRovLFImiStWPf1f0lZ_rst29BOkWsvBDYq8khlSpmKIB32wsQC5FNco73CcSNHB3Da";
   return new payPalSdk.core.SandboxEnvironment(clientId, clientSecret);
 };
 
